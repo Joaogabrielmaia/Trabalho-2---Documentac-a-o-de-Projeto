@@ -1,4 +1,4 @@
-# README do Projeto
+# Documentação de Projeto para o sistema IngressoFácil
 
 ## Integrantes do Grupo
 - [João Gabriel Maia]
