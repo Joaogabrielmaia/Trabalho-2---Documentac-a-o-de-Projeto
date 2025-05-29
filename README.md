@@ -32,7 +32,7 @@
 ![Diagrama de implantação](Diagramas/Diagrama%20de%20implantação.png)
 
 ### Diagrama Entidade-Relacionamento (ER)
-![Diagrama ER](Diagramas/Diagrama%20ER.drawio%20(1).png)
+![Diagrama ER](Diagramas/Diagrama%20ER%20.drawio%20(1).png)
 
 ### Diagramas de Estado
 #### Ciclo de Vida de um Ingresso
